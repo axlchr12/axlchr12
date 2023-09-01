@@ -5,7 +5,7 @@
 ### My top used languages: <br></br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcD08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=AcD08)
 ## About Me
-🌱 I’m currently working as Frontend Web (Angular & React) and Mobile (Flutter) in private company in Jakarta. You can check how much my commits in month in [my fulltime work account](https://github.com/axelc-una).
+🌱 I’m currently working as Frontend Web (Angular & React) and Mobile (Flutter) in private company in Jakarta. You can check how much my commits in month on [my fulltime work account](https://github.com/axelc-una).
 <br>
 📫 How to reach me: <a href="https://twitter.com/AxelC1012">my Twitter page</a> and <a href="https://www.linkedin.com/in/axel-christopher-960943185/">LinkedIn </a>
 <br>
