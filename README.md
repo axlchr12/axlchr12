@@ -9,7 +9,7 @@
 <br>
 📫 How to reach me: <a href="https://twitter.com/AxelC1012">my Twitter page</a> and <a href="https://www.linkedin.com/in/axel-christopher-960943185/">LinkedIn </a>
 <br>
-💬 Ask me about Japanese things. Because I've always been translating this since 2013 and it became my hobby.. You can check my translations in <a href="https://askytisubsite.wordpress.com/">askyti </a>and <a href="https://erasatsu.com/">erasatsu</a>. Also, I maintain these two websites.
+💬 Ask me about Japanese things. Because I've always been translating this since 2013 and it became my hobby.. You can check my translations in <a href="https://erasatsu.com/">erasatsu</a>. Also, I maintain these two websites.
 <br>
 ⚡ Fun fact: Really love photography, toys, tokusatsu, and translating Japanese things into my local subtitle (when I'm not busy and mood tho).
 
